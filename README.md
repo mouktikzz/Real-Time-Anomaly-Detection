@@ -21,7 +21,7 @@ It processes incoming data points, maintains a sliding window of recent values, 
 ## 🏗️ Project Structure
 
 ```bash
-anomaly-detection/
+real-time-anomaly-detection/
 │
 ├── src/
 │   ├── detector.py              # Core anomaly detection logic
@@ -41,7 +41,6 @@ anomaly-detection/
 
 ```bash
 git clone https://github.com/mouktikzz/Real-Time-Anomaly-Detection
-cd anomaly-detection
 pip install -r requirements.txt
 ```
 
